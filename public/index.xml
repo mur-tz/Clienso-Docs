@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/posts/clienso/</guid>
       <description>Introduction Welcome to the Clienso project! In this project, I have implemented a Windows Server 2022 environment with various essential services such as Active Directory (AD), Domain Name System (DNS), Dynamic Host Configuration Protocol (DHCP), Internet Information Services (IIS), and Certificate Authority (CA).&#xA;Throughout this project, I will provide an overview of the setup process, configuration steps, and the benefits of each service. By the end, you will have a comprehensive understanding of how these services work together to create a robust and secure operating system environment.</description>
     </item>
+    <item>
+      <title>Active Directory</title>
+      <link>http://localhost:1313/blog/dhcp/</link>
+      <pubDate>Thu, 15 Aug 2024 18:40:13 +0000</pubDate>
+      <guid>http://localhost:1313/blog/dhcp/</guid>
+      <description>Docs go here</description>
+    </item>
   </channel>
 </rss>
