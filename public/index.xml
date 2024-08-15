@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2024 13:34:28 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clienso</title>
+      <link>http://localhost:1313/posts/clienso/</link>
+      <pubDate>Thu, 15 Aug 2024 13:34:28 -0600</pubDate>
+      <guid>http://localhost:1313/posts/clienso/</guid>
+      <description>Introduction Welcome to the Clienso project! In this project, I have implemented a Windows Server 2022 environment with various essential services such as Active Directory (AD), Domain Name System (DNS), Dynamic Host Configuration Protocol (DHCP), Internet Information Services (IIS), and Certificate Authority (CA).&#xA;Throughout this project, I will provide an overview of the setup process, configuration steps, and the benefits of each service. By the end, you will have a comprehensive understanding of how these services work together to create a robust and secure operating system environment.</description>
+    </item>
+  </channel>
+</rss>
